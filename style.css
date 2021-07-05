@@ -75,6 +75,14 @@ span {
   text-align: center;
   margin: 40px 400px;
 }
+.recipies-text h2{
+    font-size: 30px;
+    color: rgb(87, 85, 85);
+}
+.recipies-text p{
+    font-size: 18px;
+    color: #a1a1a1;
+}
 .recipies-title {
   display: flex;
   margin: 50px;
@@ -84,6 +92,10 @@ span {
   margin: 25px;
   box-shadow: 0.5px 0.5px 25px 0.5px gray;
   border-radius: 25px;
+}
+.half-width-2 p{
+    font-size: 15px;
+    color: #7a7878;
 }
 .recipies-img {
   border-radius: 20px;
@@ -119,6 +131,7 @@ span {
   font-size: 15px;
   padding: 0;
   margin: 0;
+  color: #3a3939;
 }
 footer{
     background-color:#0B0D17;
