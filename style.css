@@ -141,3 +141,9 @@ footer{
     margin-top: 100px;
     padding-top: 20px;
 }
+footer h2{
+    color: palegreen;
+}
+footer h2 span{
+    color: orangered;
+}
