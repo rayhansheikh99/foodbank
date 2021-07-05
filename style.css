@@ -1,3 +1,41 @@
 body {
   margin: 0;
 }
+.order-section {
+  display: flex;
+}
+.half-width-1 {
+  width: 50%;
+}
+#order-img {
+  width: 80%;
+  margin-top: 20px;
+}
+span {
+  color: rgb(35, 168, 113);
+}
+.order-text {
+  margin: 100px 50px 50px 70px;
+}
+#order-heading {
+  font-size: 50px;
+  color: rgb(87, 85, 85);
+}
+.paragraph-font {
+  font-size: 18px;
+  color: #a1a1a1;
+  margin-bottom: 40px;
+}
+.button-all {
+  text-decoration: none;
+  color: whitesmoke;
+  background-image: linear-gradient(to left, rgb(230, 188, 140), tomato);
+  padding: 15px 30px;
+  border-radius: 25px;
+  font-size: 20px;
+  font-weight: 700;
+}
+#bg-image {
+  background-image: url(images/shape/7\ -\ Copy.png);
+}
+
