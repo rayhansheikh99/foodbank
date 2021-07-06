@@ -8,7 +8,7 @@ nav ul {
   display: flex;
   position: absolute;
   margin: 30px 0px 0px 70px;
-  background-color: #FC8F49;
+  background-color: #fc8f49;
   border-radius: 15px;
 }
 nav ul li {
@@ -22,14 +22,14 @@ li a {
   padding: 20px 2px;
   color: rgb(123, 210, 250);
   font-weight: 700;
-  
 }
-#search{
-    margin: 18px 5px 0px 0px;
-    border-radius: 5px;
+#search {
+  margin: 18px 5px 0px 0px;
+  border-radius: 5px;
 }
 .order-section {
   display: flex;
+  margin-bottom: 50px;
 }
 .half-width-1 {
   width: 50%;
@@ -54,12 +54,13 @@ span {
   color: #a1a1a1;
   margin-bottom: 40px;
 }
-.button-all {
+.button-order {
   text-decoration: none;
   color: whitesmoke;
   background-image: linear-gradient(to left, rgb(230, 188, 140), tomato);
   padding: 15px 30px;
   border-radius: 25px;
+  box-shadow: gray 0.5px 0.5px 10px -0.5px;
   font-size: 20px;
   font-weight: 700;
 }
@@ -67,12 +68,10 @@ span {
   background-image: url(images/shape/7\ -\ Copy.png);
   background-size: cover;
   background-repeat: no-repeat;
-  min-width: 100%;
-  min-height: 100%;
 }
 .about-img {
   width: 60%;
-  margin-top: 20px;
+  margin-top: 60px;
   margin-left: 300px;
 }
 .about-me {
@@ -85,7 +84,7 @@ span {
 .about-me p {
   font-size: 18px;
   color: #a1a1a1;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 .about-me a {
   text-decoration: none;
@@ -95,6 +94,7 @@ span {
   border-radius: 25px;
   font-size: 20px;
   font-weight: 700;
+  box-shadow: gray 0.5px 0.5px 10px -0.5px;
 }
 .recipies-text {
   text-align: center;
