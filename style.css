@@ -1,6 +1,33 @@
 body {
   margin: 0;
 }
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  position: absolute;
+  margin-left: 70px;
+  background-color: #FC8F49;
+  margin-top: 30px;
+  border-radius: 15px;
+}
+nav ul li {
+  /* display: inline; */
+  /* float: left; */
+  padding: 0px 10px;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+li a {
+  text-decoration: none;
+  display: block;
+  padding: 20px 2px;
+  color: rgb(123, 210, 250);
+  font-weight: 700;
+  
+}
 .order-section {
   display: flex;
 }
