@@ -28,6 +28,10 @@ li a {
   font-weight: 700;
   
 }
+#search{
+    margin: 18px 5px 0px 0px;
+    border-radius: 10px;
+}
 .order-section {
   display: flex;
 }
